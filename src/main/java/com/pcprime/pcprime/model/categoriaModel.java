@@ -1,5 +1,5 @@
 package com.pcprime.pcprime.model;
 
-public class clienteModel {
+public class categoriaModel {
 
 }
